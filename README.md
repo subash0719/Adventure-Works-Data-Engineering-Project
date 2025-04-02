@@ -1,7 +1,4 @@
-# Adventure-Works-Data-Engineering-Project
-
-# 🚀 Data Pipeline Using Azure Data Services
-
+# 🚀 Adventure-Works-Data-Engineering-Project
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
