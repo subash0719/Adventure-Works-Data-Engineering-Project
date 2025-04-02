@@ -42,6 +42,7 @@ The pipeline follows a structured data flow:
 ### 🔹 Reporting
 📊 **Power BI** is used for creating interactive dashboards and reports based on the transformed data.
 
+---
 ![AdventureWorksArch](https://github.com/user-attachments/assets/9260225e-9bde-4abf-850d-4641cdf8b1e2)
 
 
