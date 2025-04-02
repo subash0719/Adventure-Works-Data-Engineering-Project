@@ -42,6 +42,9 @@ The pipeline follows a structured data flow:
 ### 🔹 Reporting
 📊 **Power BI** is used for creating interactive dashboards and reports based on the transformed data.
 
+<img width="43" alt="image" src="https://github.com/user-attachments/assets/5229042a-9075-443d-8717-a98e8fc2816b" />
+
+
 ---
 
 ## 🛠️ Technology Stack
