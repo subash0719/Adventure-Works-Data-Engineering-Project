@@ -11,7 +11,7 @@ This data pipeline is designed to:
 - Enable efficient querying and reporting for business insights.
 - Provide an end-to-end solution for data-driven decision-making.
 
-## Solution Overview / Architecture
+## Solution Overview
 The pipeline follows a structured data flow:
 
 1. **Data Source**
@@ -40,7 +40,7 @@ The pipeline follows a structured data flow:
 - **Azure Synapse Analytics** (Serving Layer)
 - **Power BI** (Visualization & Reporting)
 
-## Instructions / Getting Started
+## Getting Started
 To replicate this pipeline, follow these steps:
 
 1. **Set Up Data Source:** Configure the HTTP source for data extraction.
